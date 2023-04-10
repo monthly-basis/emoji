@@ -1,0 +1,16 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MonthlyBasis\\Emoji\\": "src/",
+            "MonthlyBasis\\EmojiTest\\": "test/"
+        }
+    },
+    "license": "MIT",
+    "name": "monthly-basis/emoji",
+    "require": {
+        "laminas/laminas-db": "^2.9",
+        "laminas/laminas-test": "^4.0",
+        "monthly-basis/laminas": "^0.0",
+        "monthly-basis/laminas-test": "^2.0"
+    }
+}
